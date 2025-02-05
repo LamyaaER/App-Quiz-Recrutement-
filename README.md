@@ -81,14 +81,17 @@ L’application sera accessible via `http://localhost:5000`.
 
 ## 📸 Captures d'écran
 
-### Interface du quiz
-![Interface](screenshots/home.png)
+### Interface principale
+![Interface App](images/00_Interface_app.png)
 
-### Résultat des candidats
-![Résultat](screenshots/result.png)
+### Génération de Quiz
+![Génération de quiz](images/01_Generation_de_quiz.png)
 
-### Déploiement sur Azure
-![Azure](screenshots/azure.png)
+### Interface du Quiz
+![Interface Quiz](images/02_Interface_quiz.png)
+
+### Résultat du Quiz
+![Résultat Quiz](images/03_Resultat_quiz.png)
 
 ## 📜 Licence
 
